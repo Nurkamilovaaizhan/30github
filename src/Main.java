@@ -4,7 +4,12 @@ public class Main {
     public static void main(String[] args) {
         /*day 2*/
 //       if statements
-        int age = -1;
+        Scanner scn = new Scanner(System.in);
+
+        int age;
+
+        System.out.print("Enter your age: ");
+        age = scn.nextInt();
         if (age >= 18){
             System.out.println("You are an adult");
         } else if (age < 0){
@@ -13,6 +18,7 @@ public class Main {
         else{
             System.out.println("molokosos");
         }
+        scn.close();
     }
 }
 /*day1*/
