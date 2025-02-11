@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class i_o_if {
     public static void main(String[] args) {
         /*day 2*/
 //       if statements

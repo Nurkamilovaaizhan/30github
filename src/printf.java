@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class day4 {
+public class printf {
     public static void main(String[] args) {
 
 //        printf() - is a method used to format output

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day3 {
+public class math {
     public static void main(String[] args) {
 //        math
 
