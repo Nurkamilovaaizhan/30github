@@ -23,7 +23,7 @@ public class string_methods {
 //          .substring(start, end);
 
 //        String username = email.substring(0, 6);
-git
+
 //        email = "aizhan777@gmail.com";
 //        username = email.substring(0, email.indexOf("@"));
 //        domain = email.substring(email.indexOf("@") + 1);
