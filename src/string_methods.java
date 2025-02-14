@@ -31,21 +31,21 @@ public class string_methods {
 
 //        String domain = email.substring(10);
 
-        Scanner sc = new Scanner(System.in);
-        String email;
-        String username;
-        String domain;
-
-        email = sc.nextLine();
-        username = email.substring(0, email.indexOf("@"));
-        domain = email.substring(email.indexOf("@") + 1);
-
-        System.out.println("Enter your email: ");
-        email = sc.nextLine();
-
-        System.out.println(email);
-
-        sc.close();
+//        Scanner sc = new Scanner(System.in);
+//        String email;
+//        String username;
+//        String domain;
+//
+//        email = sc.nextLine();
+//        username = email.substring(0, email.indexOf("@"));
+//        domain = email.substring(email.indexOf("@") + 1);
+//
+//        System.out.println("Enter your email: ");
+//        email = sc.nextLine();
+//
+//        System.out.println(email);
+//
+//        sc.close();
 
 
 
