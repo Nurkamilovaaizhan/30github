@@ -7,5 +7,8 @@ public class day19 {
         .jdgh.zsglhzsghjzdhfglzhjzhfl
                 xjlzhsgskdlghslJG
 
+                sc.close();
+
+
     }
 }
