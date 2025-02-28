@@ -8,6 +8,8 @@ public class day19 {
                 xjlzhsgskdlghslJG
 
                 sc.close();
+        System.out.println();
+
 
 
     }
