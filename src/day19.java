@@ -10,6 +10,10 @@ public class day19 {
                 sc.close();
         System.out.println();
 
+        Scanner.class;
+        ssadfsdf
+
+
 
 
     }
