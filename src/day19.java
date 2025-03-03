@@ -12,10 +12,8 @@ public class day19 {
 
         Scanner.class;
         ssadfsdf
-
-
-
                 xgdhdfhdfdjdffdj
+                gfgfjktufutg
 
 
 
