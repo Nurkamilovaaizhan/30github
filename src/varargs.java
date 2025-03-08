@@ -13,7 +13,6 @@ public class varargs {
             sum += number;
         }
         return sum / numbers.length;
-        Systeljnhnhsjlfahaljshgjladhgsldf
 
     }
 }
