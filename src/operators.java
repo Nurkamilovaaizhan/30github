@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day8 {
+public class operators {
     public static void main(String[] args) {
 //        ternary operator
 //        int score = 75;
